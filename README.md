@@ -2,8 +2,7 @@
 
 💻 Estudante de **Sistemas de Informação** (noturno)  
 🐍 Apaixonada por **Python** e iniciando projetos em programação  
-📊 Interesse em **Ciência da Computação, Cibersegurança e Dados**  
-🎯 Planejo fazer **Mestrado em Ciência da Computação** no futuro  
+📊 Interesse em **Ciência da Computação, Cibersegurança e Dados**   
 
 --
 
@@ -16,9 +15,9 @@
 ---
 
 ## 📈 Minhas estatísticas no GitHub
-![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=bgimenez006&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgimenez006&layout=compact&theme=radical)
 
 ---
 
