@@ -26,23 +26,28 @@
 - 💼 LinkedIn: [Beatriz Gimenez](https://www.linkedin.com/in/beatriz-gimenez-99030124b/)
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Olá, eu sou a Beatriz </h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">💻 Estudante de **Sistemas de Informação** (noturno)  
+🐍 Apaixonada por **Python** e iniciando projetos em programação  
+📊 Interesse em **Ciência da Computação, Cibersegurança e Dados** </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🔧 Tecnologias que estou aprendendo</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">- Python (automação, lógica, pequenos projetos)
+- Git & GitHub
+- Fundamentos de C
+- Conceitos de banco de dados e lógica de programação  </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">O que utilizo para programar</h2>
 
 ###
 
