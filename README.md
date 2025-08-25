@@ -4,7 +4,7 @@
 🐍 Apaixonada por **Python** e iniciando projetos em programação  
 📊 Interesse em **Ciência da Computação, Cibersegurança e Dados**   
 
---
+---
 
 ## 🔧 Tecnologias que estou aprendendo
 - Python (automação, lógica, pequenos projetos)
