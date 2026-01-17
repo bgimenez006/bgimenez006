@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Beatriz
 
-💻 Estudante de **Sistemas de Informação**  
+💻 Estudante de **Sistemas de Informação e Análise de Desenvolvimento de Sistemas**  
 🐍 Focada em **Python**, lógica de programação e automação simples  
 📊 Interesse em **Tecnologia da Informação, Dados e Cibersegurança**  
 🎯 Em busca de oportunidades de **estágio ou início de carreira em TI**
