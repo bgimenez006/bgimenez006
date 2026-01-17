@@ -15,13 +15,6 @@
 
 ---
 
-## 📈 Minhas estatísticas no GitHub
-![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=bgimenez006&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgimenez006&layout=compact&theme=radical)
-
----
-
 ## 🌐 Onde me encontrar
 - 📧 Email: [bgimenez006@gmail.com](mailto:bgimenez006@gmail.com)
-- 💼 LinkedIn: [Beatriz Gimenez](https://www.linkedin.com/in/beatriz-gimenez-99030124b/)
+- 💼 LinkedIn: [Beatriz Gimenez](www.linkedin.com/in/beatriz-g-99030124b)
