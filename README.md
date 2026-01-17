@@ -1,16 +1,17 @@
 # 👋 Olá, eu sou a Beatriz
 
-💻 Estudante de **Sistemas de Informação** (noturno)  
-🐍 Apaixonada por **Python** e iniciando projetos em programação  
-📊 Interesse em **Ciência da Computação, Cibersegurança e Dados**   
+💻 Estudante de **Sistemas de Informação**  
+🐍 Focada em **Python**, lógica de programação e automação simples  
+📊 Interesse em **Tecnologia da Informação, Dados e Cibersegurança**  
+🎯 Em busca de oportunidades de **estágio ou início de carreira em TI**
 
 ---
 
 ## 🔧 Tecnologias que estou aprendendo
-- Python (automação, lógica, pequenos projetos)
-- Git & GitHub
-- Fundamentos de C
-- Conceitos de banco de dados e lógica de programação  
+- **Python** (lógica, automação, pequenos projetos)
+- **Git & GitHub**
+- **Fundamentos de C**
+- **Lógica de programação e conceitos básicos de banco de dados**
 
 ---
 
