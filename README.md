@@ -17,4 +17,4 @@
 
 ## 🌐 Onde me encontrar
 - 📧 Email: [bgimenez006@gmail.com](mailto:bgimenez006@gmail.com)
-- 💼 LinkedIn: [Beatriz Gimenez](www.linkedin.com/in/beatriz-g-99030124b)
+- 💼 LinkedIn: [Beatriz Gimenez](https://www.linkedin.com/in/beatriz-g-99030124b/)
